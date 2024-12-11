@@ -6,6 +6,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - Desktop design 
+  ![alt text](desktop-design.png)
+
+  -Mobile design
+  ![alt text](mobile-design.png)
+
+
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
